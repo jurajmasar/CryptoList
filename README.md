@@ -197,6 +197,8 @@ watch.
 * [Crypto Central](https://cryptocentral.ai) - Bitcoin & cryptocurrency portfolio tracker for iOS/Android.
 * [Cryptagon](https://cryptagon.io) - Powerful app to track portfolio. Automatic imports from exchanges.
 * [Cryptonomy](https://www.cryptonomynow.com/) - Portfolio tracking, social, forum, chat, ico listings, news aggregator, crypto academy. Android/iOS.
+* [wallmine](https://wallmine.com/stocks-and-cryptocurrency-portfolio-tracker) - Track both cryptocurrencies and stocks; screeners, heatmaps, news, push notifications.
+
 # Useful Tools
 * [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
 * [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
@@ -208,7 +210,6 @@ watch.
 * [RSIhunter](http://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
 * [CryptoFinance](https://chrome.google.com/webstore/detail/cryptofinance/bhjnahcnhemcnnenhgbmmdapapblnlcn) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
 * [BroBot](https://beta.brobot.tech/) - Personalized chatbot that controls your portfolio. Receive news and signal notifications.
-
 
 # Video
 ## YouTube Channels
